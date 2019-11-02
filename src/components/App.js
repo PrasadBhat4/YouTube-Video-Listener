@@ -26,7 +26,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("chakravarthy sulibele");
+    this.onTermSubmit("Javascript medium");
   }
   render() {
     return (
