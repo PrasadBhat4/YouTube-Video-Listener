@@ -4,7 +4,7 @@ const KEY = "AIzaSyAXZMZaR-5wdGbPK545PGgRKXrki9JyGN0";
 
 export const baseParams = {
   part: "snippet",
-  maxResults: 10,
+  maxResults: 15,
   key: KEY
 };
 export default axios.create({
